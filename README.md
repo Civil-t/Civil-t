@@ -2,10 +2,7 @@
 
 ## Software Engineer from Zimbabwe
 
-<div style="background-color:red; padding:20px; color: white; border-radius: 8px;">
-  <h1>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">My name is Tapiwa Chimbwanda</h1>
-  <h2>Software Engineer from Zimbabwe</h2>
-</div>
+
 
 Senior student at United States International University-Africa Gaining hands-on experience through internships and diverse projects. Currently solidifying web application development skills using the MERN stack. Open to learning and working accros new technologies and domains.
 
