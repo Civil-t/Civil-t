@@ -1,11 +1,10 @@
 <img src="./banner.png"/><br>
 
-<table style="border: 1px solid #D8B04A; border-collapse: collapse;">
+<table>
   <tr>
     <td>
       <a href="http://www.github.com/Civil-t">
         <img src="https://github-readme-stats.vercel.app/api?username=Civil-t&show_icons=true&hide=contribs&count_private=true&title_color=D8B04A&text_color=FFF0CC&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="Civil-t's GitHub stats" />
-      </a>
     </td>
     <td>
       <a href="http://www.github.com/Civil-t">
@@ -25,6 +24,7 @@
         <img src="https://via.placeholder.com/15/000000/000000?text=+" alt="Contact me at tapiwachimbwanda4@gmail.com"> <a href="mailto:tapiwachimbwanda4@gmail.com">🚚 Mail me at tapiwachimbwanda4@gmail.com</a><br>
         <img src="https://via.placeholder.com/15/000000/000000?text=+" alt="I'm learning MERN"> 💡 I'm learning MERN<br>
         <img src="https://via.placeholder.com/15/000000/000000?text=+" alt="I'm open to collaborating on Projects"> 🤝 I'm open to collaborating on Projects
+      </a>&nbsp;&nbsp;&nbsp;&nbsp;
       </p>
     </td>
     <td>
