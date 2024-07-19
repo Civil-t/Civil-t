@@ -1,21 +1,8 @@
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: none;
-}
-blockquote {
-    border-left: none;
-    padding-left: 10px;
-}
-</style>
-
 <img src="./banner.png"/><br>
 
-<table>
-  <tr>
-    <td>
+<table style="border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="border: none;">
       <p>
        @Me <br><br>
         <img src="https://via.placeholder.com/15/000000/000000?text=+" alt="I'm based in Nairobi, Kenya"> 🏫 I'm based in Nairobi, Kenya<br>
