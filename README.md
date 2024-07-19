@@ -112,8 +112,15 @@
 
 ### My GitHub Stats
 
-<a href="http://www.github.com/Civil-t"><img src="https://github-readme-stats.vercel.app/api?username=Civil-t&show_icons=true&hide=contribs&count_private=true&title_color=D8B04A&text_color=FFF0CC&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="Civil-t's GitHub stats" /></a>
-
-<a href="http://www.github.com/Civil-t"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Civil-t&stroke=FFF0CC&background=000000&ring=D8B04A&fire=D8B04A&currStreakNum=FFF0CC&currStreakLabel=D8B04A&sideNums=FFF0CC&sideLabels=FFF0CC&dates=FFF0CC&hide_border=true" /></a>
+<div style="display: flex; justify-content: space-between;">
+  <a href="http://www.github.com/Civil-t">
+    <img src="https://github-readme-stats.vercel.app/api?username=Civil-t&show_icons=true&hide=contribs&count_private=true&title_color=D8B04A&text_color=FFF0CC&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="Civil-t's GitHub stats" />
+  </a>
+  
+  
+  <a href="http://www.github.com/Civil-t">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Civil-t&stroke=FFF0CC&background=000000&ring=D8B04A&fire=D8B04A&currStreakNum=FFF0CC&currStreakLabel=D8B04A&sideNums=FFF0CC&sideLabels=FFF0CC&dates=FFF0CC&hide_border=true" />
+  </a>
+</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Civil-t&layout=compact&title_color=D8B04A&text_color=FFF0CC&bg_color=000000&hide_border=true)
