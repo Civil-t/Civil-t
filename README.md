@@ -87,7 +87,7 @@
         </a>&nbsp;
       </p>
     </td>
-    <td valign="top" style="border:none; width:50%;">
+    <td valign="top" style="border:none; width:100%;">
       <h3>Let's Connect 🤝</h3>
       <p align="left">
         <a href="https://www.github.com/Civil-t" target="_blank" rel="noreferrer">
