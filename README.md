@@ -9,6 +9,21 @@
 <a href="https://www.github.com/Civil-t" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Civil-t?logo=github&style=for-the-badge&color=red&labelColor=1c1917" /></a>
 
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div> <!-- Skills Section -->
+    <h3>Skills</h3>
+    <p align="left">
+      <!-- Skills icons -->
+    </p>
+  </div>
+  <div> <!-- Socials Section -->
+    <h3>Socials</h3>
+    <p align="left">
+      <!-- Socials icons -->
+    </p>
+  </div>
+</div>
+
 ### Skills
 
 <p align="left">
