@@ -1,4 +1,4 @@
-<img src="./banner1.png"/>
+<img src="./banner.png"/>
 
 - 🌍  I'm based in Nairobi, Kenya
 - 🖥️  See my portfolio at [My Portfolio](http://https://tapiwa.me/)
