@@ -136,5 +136,3 @@
     </td>
   </tr>
 </table>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Civil-t&layout=compact&title_color=D8B04A&text_color=FFF0CC&bg_color=000000&hide_border=true)
