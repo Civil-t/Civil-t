@@ -1,12 +1,24 @@
 <img src="./banner.png"/><br>
 
-### @Me
-
-![` I'm based in Nairobi, Kenya`](https://via.placeholder.com/15/000000/000000?text=+) `🏫 I'm based in Nairobi, Kenya`<br>
-![See my portfolio at My Portfolio](https://via.placeholder.com/15/000000/000000?text=+) [`👨‍💻 See my portfolio at My Portfolio`](http://https://tapiwa.me/)<br>
-![Contact me at tapiwachimbwanda4@gmail.com](https://via.placeholder.com/15/000000/000000?text=+) [`🚚 Mail me at tapiwachimbwanda4@gmail.com`](mailto:tapiwachimbwanda4@gmail.com)<br>
-![I'm learning MERN](https://via.placeholder.com/15/000000/000000?text=+) `💡 I'm learning MERN`<br>
-![I'm open to collaborating on Projects](https://via.placeholder.com/15/000000/000000?text=+) ` 🤝 I'm open to collaborating on Projects`<br>
+<table>
+  <tr>
+    <td>
+      <p>
+       @Me <br><br>
+        <img src="https://via.placeholder.com/15/000000/000000?text=+" alt="I'm based in Nairobi, Kenya"> 🏫 I'm based in Nairobi, Kenya<br>
+        <img src="https://via.placeholder.com/15/000000/000000?text=+" alt="See my portfolio at My Portfolio"> <a href="http://https://tapiwa.me/">👨‍💻 See my portfolio at My Portfolio</a><br>
+        <img src="https://via.placeholder.com/15/000000/000000?text=+" alt="Contact me at tapiwachimbwanda4@gmail.com"> <a href="mailto:tapiwachimbwanda4@gmail.com">🚚 Mail me at tapiwachimbwanda4@gmail.com</a><br>
+        <img src="https://via.placeholder.com/15/000000/000000?text=+" alt="I'm learning MERN"> 💡 I'm learning MERN<br>
+        <img src="https://via.placeholder.com/15/000000/000000?text=+" alt="I'm open to collaborating on Projects"> 🤝 I'm open to collaborating on Projects
+      </p>
+    </td>
+    <td>
+      <p>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Civil-t&layout=compact&title_color=D8B04A&text_color=FFF0CC&bg_color=000000&hide_border=true" alt="Top Languages">
+      </p>
+    </td>
+  </tr>
+</table>
 
 <table style="width:100%; border:none;">
   <tr>
@@ -109,8 +121,6 @@
     </td>
   </tr>
 </table>
-
-### My GitHub Stats
 
 <table>
   <tr>
