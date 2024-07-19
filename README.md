@@ -24,9 +24,10 @@
         <img src="https://via.placeholder.com/15/000000/000000?text=+" alt="Contact me at tapiwachimbwanda4@gmail.com"> <a href="mailto:tapiwachimbwanda4@gmail.com">🚚 Mail me at tapiwachimbwanda4@gmail.com</a><br>
         <img src="https://via.placeholder.com/15/000000/000000?text=+" alt="I'm learning MERN"> 💡 I'm learning MERN<br>
         <img src="https://via.placeholder.com/15/000000/000000?text=+" alt="I'm open to collaborating on Projects"> 🤝 I'm open to collaborating on Projects
-      </a>&nbsp;&nbsp;&nbsp;&nbsp;
+      </a>
       </p>
     </td>
+    <td></td>
     <td>
       <p>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Civil-t&layout=compact&title_color=D8B04A&text_color=FFF0CC&bg_color=000000&hide_border=true" alt="Top Languages">
