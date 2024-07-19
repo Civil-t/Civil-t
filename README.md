@@ -14,12 +14,14 @@ src="https://img.shields.io/github/followers/Civil-t?logo=github&style=for-the-b
     <h3>Skills</h3>
     <p align="left">
       <!-- Skills icons -->
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
     </p>
   </div>
   <div> <!-- Socials Section -->
     <h3>Socials</h3>
     <p align="left">
       <!-- Socials icons -->
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
     </p>
   </div>
 </div>
