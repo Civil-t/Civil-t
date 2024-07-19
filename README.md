@@ -1,6 +1,6 @@
 <img src="./banner.png"/><br>
 
-<h2 style= "border:none; color: #D8B04A">@Me</h2>
+### @Me
 
 ![` I'm based in Nairobi, Kenya`](https://via.placeholder.com/15/000000/000000?text=+) `🏫 I'm based in Nairobi, Kenya`<br>
 ![See my portfolio at My Portfolio](https://via.placeholder.com/15/000000/000000?text=+) [`👨‍💻 See my portfolio at My Portfolio`](http://https://tapiwa.me/)<br>
@@ -8,7 +8,7 @@
 ![I'm learning MERN](https://via.placeholder.com/15/000000/000000?text=+) `💡 I'm learning MERN`<br>
 ![I'm open to collaborating on Projects](https://via.placeholder.com/15/000000/000000?text=+) ` 🤝 I'm open to collaborating on Projects`<br>
 
-<h2 style= "border:none; color: #D8B04A">Skills</h2>
+### Skills
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -32,30 +32,13 @@
 
 </p>
 
-<h2 style= "border:none; color: #D8B04A">Let's Connect 🤝</h2>
+### Let's Connect 🤝
 
-<p align="left">
-  <a href="https://www.github.com/Civil-t" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" style="filter: brightness(0) saturate(100%) invert(0);" />
-  </a>
-  <a href="http://www.instagram.com/civill_t/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" style="filter: brightness(0) saturate(100%) invert(0);" />
-  </a>
-  <a href="https://www.linkedin.com/in/ctapiwa/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="filter: brightness(0) saturate(100%) invert(0);" />
-  </a>
-  <a href="https://www.stackoverflow.com/users/25047746/tapiwa-chimbwanda" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" style="filter: brightness(0) saturate(100%) invert(0);" />
-  </a>
-  <a href="https://www.x.com/Tapiwa__C" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" style="filter: brightness(0) saturate(100%) invert(0);" />
-  </a>
-  <a href="https://www.facebook.com/tapiwa.chimbwanda.9/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" style="filter: brightness(0) saturate(100%) invert(0);" />
-  </a>
+<p align="left"> <a href="https://www.github.com/Civil-t" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/civill_t/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ctapiwa/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/25047746/tapiwa-chimbwanda" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/Tapiwa__C" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a>
+<a href="https://www.facebook.com/tapiwa.chimbwanda.9/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a>
 </p>
 
-<h2 style= "border:none; color: #D8B04A">My GitHub Stats</h2>
+### My GitHub Stats
 
 <a href="http://www.github.com/Civil-t"><img src="https://github-readme-stats.vercel.app/api?username=Civil-t&show_icons=true&hide=contribs&count_private=true&title_color=D8B04A&text_color=FFF0CC&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="Civil-t's GitHub stats" /></a>
 
