@@ -1,6 +1,6 @@
 <img src="./banner.png"/><br>
 
-<table>
+<table style="border: 1px solid #D8B04A; border-collapse: collapse;">
   <tr>
     <td>
       <a href="http://www.github.com/Civil-t">
