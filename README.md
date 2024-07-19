@@ -18,7 +18,7 @@
   <tr style="border: none;">
     <td style="border: none;">
       <p>
-       @Me <br><br>
+       @Me <br>
         <img src="https://via.placeholder.com/15/000000/000000?text=+" alt="I'm based in Nairobi, Kenya"> 🏫 I'm based in Nairobi, Kenya<br>
         <img src="https://via.placeholder.com/15/000000/000000?text=+" alt="See my portfolio at My Portfolio"> <a href="http://https://tapiwa.me/">👨‍💻 See my portfolio at My Portfolio</a><br>
         <img src="https://via.placeholder.com/15/000000/000000?text=+" alt="Contact me at tapiwachimbwanda4@gmail.com"> <a href="mailto:tapiwachimbwanda4@gmail.com">🚚 Mail me at tapiwachimbwanda4@gmail.com</a><br>
