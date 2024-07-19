@@ -1,10 +1,4 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tapiwa Chimbwanda
-
-## Software Engineer from Zimbabwe
-
-
-
-Senior student at United States International University-Africa Gaining hands-on experience through internships and diverse projects. Currently solidifying web application development skills using the MERN stack. Open to learning and working accros new technologies and domains.
+<img src="./banner2.png"/>
 
 - 🌍  I'm based in Nairobi, Kenya
 - 🖥️  See my portfolio at [My Portfolio](http://https://tapiwa.me/)
@@ -12,7 +6,7 @@ Senior student at United States International University-Africa Gaining hands-on
 - 🧠  I'm learning MERN
 - 🤝  I'm open to collaborating on Projects
 
-<a style="background-color:red" href="https://www.github.com/Civil-t" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/Civil-t" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Civil-t?logo=github&style=for-the-badge&color=red&labelColor=1c1917" /></a>
 
 ### Skills
@@ -22,8 +16,6 @@ src="https://img.shields.io/github/followers/Civil-t?logo=github&style=for-the-b
 </p>
 
 ### Socials
-
-<p  style="background-color:red" align="left"> <a href="https://www.github.com/Civil-t" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/civill_t/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ctapiwa/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/25047746/tapiwa-chimbwanda" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/Tapiwa__C" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
 
