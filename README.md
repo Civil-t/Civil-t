@@ -8,9 +8,9 @@
 ![I'm learning MERN](https://via.placeholder.com/15/000000/000000?text=+) `💡 I'm learning MERN`<br>
 ![I'm open to collaborating on Projects](https://via.placeholder.com/15/000000/000000?text=+) ` 🤝 I'm open to collaborating on Projects`<br>
 
-<table>
+<table style="width:100%; border:none;">
   <tr>
-    <td valign="top">
+    <td valign="top" style="border:none; width:50%;">
       <h3>Skills</h3>
       <p align="left">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -33,10 +33,10 @@
         </a>
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-        </a> 
+        </a>
         <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-        </a><br>
+        </a>
         <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
         </a>
@@ -60,7 +60,7 @@
         </a>
       </p>
     </td>
-    <td valign="top">
+    <td valign="top" style="border:none; width:50%;">
       <h3>Let's Connect 🤝</h3>
       <p align="left">
         <a href="https://www.github.com/Civil-t" target="_blank" rel="noreferrer">
