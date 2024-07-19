@@ -8,6 +8,13 @@
 ![I'm learning MERN](https://via.placeholder.com/15/000000/000000?text=+) `💡 I'm learning MERN`<br>
 ![I'm open to collaborating on Projects](https://via.placeholder.com/15/000000/000000?text=+) ` 🤝 I'm open to collaborating on Projects`<br>
 
+| Item              | In Stock | Price |
+| :---------------- | :------: | ----: |
+| Python Hat        |   True   | 23.99 |
+| SQL Hat           |   True   | 23.99 |
+| Codecademy Tee    |  False   | 19.99 |
+| Codecademy Hoodie |  False   | 42.99 |
+
 ### Skills
 
 <p align="left">
