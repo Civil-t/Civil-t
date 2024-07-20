@@ -136,3 +136,5 @@
     </td>
   </tr>
 </table>
+
+<!-- left to look on how to customize using css accepted by md files -->
